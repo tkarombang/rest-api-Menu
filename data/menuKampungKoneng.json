@@ -1,0 +1,196 @@
+{
+  "menu": [
+    {
+      "jenis": "menu ngariung",
+      "nama": "Campur Bekakak",
+      "price": 250000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Ayam Cemong Bekakak, Serundeng Kelapa, Ikan Asin Kelapa, Lalapan Sambal."
+    },
+    {
+      "jenis": "menu ngariung",
+      "nama": "Ngariung Kremes",
+      "price": 300000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Ayam Krees, Bakwan Jagung, Nasi Timbel, Lalapan Sambal."
+    },
+    {
+      "jenis": "menu ngariung",
+      "nama": "Ngariung Koneng",
+      "price": 300000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Nasi Kuning, Ayam Cemong, Telur Dadar, Ikan Asin Kelapan, Sate Kulit Goreng, Lalpan Sambal."
+    },
+    {
+      "jenis": "menu ngariung",
+      "nama": "Ngariung Nila",
+      "price": 275000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Nila Goreng, Nasi Campur Kemangi, Tahu Tempe Bacem, Tumis Oncom, Lalapan Sambal."
+    },
+    {
+      "jenis": "menu ngariung",
+      "nama": "Dudurkan",
+      "price": 298000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Ayam Cemong, Bebek Bangor, Nasi Timbel, Sate Mix (Kulit, Tulang, Ayam), Lalapan Sambal."
+    },
+    {
+      "jenis": "menu ngariung",
+      "nama": "Ngariung Gurame",
+      "price": 375000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk berempat di lengkapi dengan Gurame Bumbu Rawit Lemon, Udang Bakar Bumbu Kecap, Nasi Liwet Rempah, Telor Asin, Kerupuk Udang, Lalapan Sambal."
+    },
+
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Campur Medan",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Rendang Sapi, Urab, Teri Medan Kacang, Nasi, Telur Dadar Iris, Acar."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Kalasan Set",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Ayam Kampung, Urab, Nasi, Sambal Acar."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Gudeg Komplit",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Opor Ayam, Gudeg, Krecek, Telur Dadar Iris, Nasi, Acar."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Liwet Komplit",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Opor Ayam, Sayur Labu, Krecek Telur dadar Iris, Nasi Liwet, Acar."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Timbel Komplit",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Ayam Goreng, Sayur Asem, Tahu Tempe Bacem, Nasi Timbel, Lalpan Sambel."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Ulam Balado",
+      "price": 65000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Rendang Jengkol, Nasi, Kulit Serundeng, Lalpan Sambal"
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Goreng Cikur",
+      "price": 75000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Fillet Ayam Goreng, Nasi Cikur, Kerupuk, Acar."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Pecel Ayam Komplit",
+      "price": 65000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Ayam Goreng, Nasi, Kerupuk, Acar, Sambal."
+    },
+    {
+      "jenis": "menu sajian khas",
+      "nama": "Nasi Goreng Komplit",
+      "price": 75000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian khas kampoeng koneng untuk perorangan di lengkapi dengan Ayam Goreng, Nasi Goreng, Kerupuk Udang, Acar."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Gurame",
+      "price": 150000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan gurame khas kampoeng koneng dengan berbagai varian: Asam Manis, Rawit Lemon, Goreng Terbang, Bumbu Bakar Kecap, pecel Gurame, Sup Gurame."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Nila",
+      "price": 100000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan nila khas kampoeng koneng dengan berbagai varian: Asam Manis, Rawit Lemon, Goreng Bumbu Bakar Kecap, Sup Nila."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Udang",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan udang khas kampoeng koneng dengan berbagai varian: Asam Manis, Rawit Lemon, Goreng Bumbu Bakar Kecap."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Cumi",
+      "price": 80000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan cumi khas kampoeng koneng dengan berbagai varian: Asam Manis, Rawit Lemon, Goreng Bumbu Bakar Kecap."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Pepes",
+      "desc": "Sajian pepes khas kampoeng koneng dengan berbagai varian:",
+      "varian": [
+        {
+          "namaVarian": "Ikan Emas Kemangi",
+          "image": "koeneng.jpg",
+          "priceVarian": 50000
+        },
+        {
+          "namaVarian": "Kelapa Peda",
+          "image": "koeneng.jpg",
+          "priceVarian": 40000
+        },
+        {
+          "namaVarian": "jamur hitam",
+          "image": "koeneng.jpg",
+          "priceVarian": 35000
+        }
+      ]
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Ayam",
+      "price": 45000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan ayam khas kampoeng koneng dengan berbagai varian: Cemong, Geprek Goreng, Kremes."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Bebek",
+      "price": 50000,
+      "image": "koeneng.jpg",
+      "desc": "Sajian olahan bebek khas kampoeng koneng dengan berbagai varian: Bangor, Geprek Goreng."
+    },
+    {
+      "jenis": "menu terlaris",
+      "nama": "Aneka Sate",
+      "desc": "Sajian sate khas kampoeng koneng dengan berbagai varian:.",
+      "varian": [
+        {
+          "namaVarian": "Sate Kulit",
+          "image": "koeneng.jpg",
+          "priceVarian": 40000
+        },
+        {
+          "namaVarian": "Sate Ayam",
+          "image": "koeneng.jpg",
+          "priceVarian": 55000
+        },
+        {
+          "namaVarian": "Sate Tulang",
+          "image": "koeneng.jpg",
+          "priceVarian": 6000
+        }
+      ]
+    }
+  ]
+}
